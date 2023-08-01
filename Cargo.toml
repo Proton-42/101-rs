@@ -25,7 +25,7 @@ members = [
     "exercises/F/3-tagged-union",
     "exercises/G/1-crc-in-c",
     "exercises/G/2-crc-in-rust",
-    "exercises/G/3-tweetnacl-bindgen",
+    # "exercises/G/3-tweetnacl-bindgen",
     "exercises/G/4-pyo3",
 
     # Examples used in slides
